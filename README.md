@@ -1,6 +1,5 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:0369a1,100:38bdf8&text=Kalhara%20Jayathissa&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Computer%20Science%20%26%20Engineering%20Undergraduate&descAlignY=58&descSize=16&animation=fadeIn" width="100%" alt="Kalhara Jayathissa profile banner" />
 
   <a href="https://kalhara.me">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=680&height=45&lines=Full-Stack+%26+Cloud+Engineer;Microservices+%26+Distributed+Systems;IoT+%26+Embedded+Firmware;Always+learning%2C+always+building" alt="Animated introduction" />
