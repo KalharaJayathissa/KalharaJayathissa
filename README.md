@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://kalhara.me">Portfolio</a> ·
-  <a href="https://www.linkedin.com/in/kalhara-jy">LinkedIn</a> ·
+  <a href="https://www.linkedin.com/in/kalharajy">LinkedIn</a> ·
   <a href="https://medium.com/@kalharajay">Medium</a> ·
   <a href="mailto:kalharaj.23@cse.mrt.ac.lk">Email</a>
 </p>
